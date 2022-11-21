@@ -4,12 +4,12 @@ import './index.scss';
 const questions = [
     {
         title: 'React - it is ... ?',
-        variants: ['library', 'framework', 'application'],
+        variants: ['Library', 'Framework', 'Application'],
         correct: 0,
     },
     {
         title: 'Component - it is ... ',
-        variants: ['application', 'part of an application or page', 'something that I don`t know'],
+        variants: ['Application', 'Part of an application or page', 'Something that I don`t know'],
         correct: 1,
     },
     {
